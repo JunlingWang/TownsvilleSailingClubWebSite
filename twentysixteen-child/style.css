@@ -1,0 +1,27 @@
+/*
+Theme Name: Twenty Sixteen Child
+Theme URI: https://wordpress.org/themes/twentysixteen/
+Author: Junling
+Author URI: 
+License URI: 
+Template: twentysixteen
+*/
+
+@import url("../twentysixteen/style.css");
+	
+
+/*get rid of the black frame*/
+body {
+	background: #FFF;
+}
+
+
+/*Change the font of main menu*/
+.main-navigation {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+
+/*Remove page titles*/
+.entry-title {
+    display: none;
+}
