@@ -10,6 +10,8 @@
  */
 
 ?><!DOCTYPE html>
+<!--Built by Junling Wang for Townsville Saling Club-->
+<!--Github: https://github.com/JunlingWang/TownsvilleSailingClubWebSite -->
 <html <?php language_attributes(); ?> class="no-js">
 <head>
 	<meta charset="<?php bloginfo( 'charset' ); ?>">
