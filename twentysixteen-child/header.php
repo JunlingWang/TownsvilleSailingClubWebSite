@@ -43,7 +43,7 @@
 						<p class="site-description"><?php echo $description; ?></p>
 					<?php endif; ?>
 					-->
-					<p id="club-logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="http://wangjunling.org/wp-content/uploads/2017/06/club-logo.jpg" ></a></p>
+					<p id="club-logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>"><img src="https://tsctest.000webhostapp.com/wp-content/uploads/2017/08/club-logo.jpg" ></a></p>
 				</div><!-- .site-branding -->
 
 				<?php if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) ) : ?>

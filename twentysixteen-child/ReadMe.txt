@@ -13,6 +13,7 @@ In order to customize individual pages, there are three ways could be used.
 To obtain hierarchical menu, go to dashboard/appearences/manues/, and drop and down to arrange the manu structure.
 
 The header slides are realized with a plugin called "slide WD".
+The full-width sliders can be made by the plugin settings.(slider/setting/global)
 Grid layouts of the pages are realized with a plugin called "Post Grid", which requires featured image of pages to be shown in the grid blocks.
 To Hide featured image in the pages, install a plugin called "Hide featured image".
 
